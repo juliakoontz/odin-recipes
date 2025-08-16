@@ -1,0 +1,3 @@
+This project was made as a part of the Odin Project's Foundations Course curriculum. The project includes a home page with links to three different dessert recipes.
+
+During this project, I used the HTML skills I learned to create a website that accesses other webpages through relative links. In each recipe page, there are different heading sizes used to organize information. These are accompanied by a picture of the recipe. There are also ingredient lists made with the unordered list element and directions made with the ordered list element.
